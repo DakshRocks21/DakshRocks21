@@ -7,4 +7,4 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshrocks21&count_private=true&show_icons=true&theme=monokai)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshrocks21&theme=monokai&layout=compact&count_private=true&langs_count=6)</br>
 
-Download <a href="https://apps.apple.com/us/app/arrivalsg/id159754331">ArrivalSG</a> 
+Download <a href="https://apps.apple.com/us/app/arrivalsg/id1597543310">ArrivalSG</a> 
