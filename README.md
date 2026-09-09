@@ -59,9 +59,9 @@ and more in my [repositories](https://github.com/DakshRocks21?tab=repositories)â
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=DakshRocks21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DakshRocks21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DakshRocks21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook,g-code)
+![](https://github-stats-extended.vercel.app/api?username=DakshRocks21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DakshRocks21&theme=radical&hide_border=false)<br/>
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=DakshRocks21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook,g-code)
 
 ---
 
