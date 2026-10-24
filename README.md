@@ -6,49 +6,6 @@ Cybersecurity & Digital Forensics student at Ngee Ann Polytechnic, Singapore. I 
 
 ![Stack](https://skillicons.dev/icons?i=py,ts,js,swift,cpp,cs,react,nextjs,tailwind,flask,flutter,docker,aws,terraform,githubactions,cloudflare,linux,kali,bash,git,raspberrypi&perline=11)
 
-## Selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DakshRocks21/SadGuard">SadGuard</a></h3>
-      <p>Self-hosted GitHub bot that catches supply-chain attacks in pull requests: LLM diff review, sandboxed execution logging and entropy analysis.</p>
-      <sub>Black Hat Asia Arsenal 2025 · Python, TypeScript, Docker</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://dakshthapar.com/log">PacketDuck</a></h3>
-      <p>PCAP analyser and threat-intel dashboard that runs entirely in the browser, with optional LLM-assisted forensic summaries.</p>
-      <sub>Black Hat Asia Arsenal 2026 · TypeScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DakshRocks21/VulnGuard">VulnGuard</a></h3>
-      <p>LLM-assisted pull request reviewer that flags vulnerabilities and writes test cases from repository context. Grew into SadGuard.</p>
-      <sub>HackSmith 5.0 Challenge Coin · Python, GitHub Actions</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>STUPID &amp; PLUGIN</h3>
-      <p>CTFd plugin and backend that spins up on-demand, per-team challenge instances across Docker and Proxmox.</p>
-      <sub>Ran Hack N Flag 2025 with 400+ players · Python, CTFd</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DakshRocks21/openvpn-roe-plugin">OpenVPN for CTFd</a></h3>
-      <p>On-demand OpenVPN client profiles for network challenges: a <a href="https://github.com/DakshRocks21/create-openvpn-profiles">profile generator</a> and a <a href="https://github.com/DakshRocks21/openvpn-roe-plugin">CTFd frontend plugin</a>.</p>
-      <sub>Python, CTFd</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/swiftinsg/2021-ArrivalSG">ArrivalSG</a></h3>
-      <p>iOS app for Singapore bus arrivals and train disruptions, built in the Swift Accelerator Programme. <a href="https://apps.apple.com/us/app/arrivalsg/id1597543310">On the App Store</a>.</p>
-      <sub>Swift</sub>
-    </td>
-  </tr>
-</table>
-
-and more in my [repositories](https://github.com/DakshRocks21?tab=repositories)…
-
 ## Talks & recognition
 
 ![Black Hat Asia Arsenal 2026](https://img.shields.io/badge/Black%20Hat%20Asia%20Arsenal%202026-PacketDuck-000000?style=for-the-badge) ![Black Hat Asia Arsenal 2025](https://img.shields.io/badge/Black%20Hat%20Asia%20Arsenal%202025-SadGuard-000000?style=for-the-badge) ![Hall%20of%20Fame NASA%20VDP](https://img.shields.io/badge/Hall%20of%20Fame-NASA%20VDP-24292F?style=for-the-badge&labelColor=0B3D91&logo=nasa&logoColor=white) ![1st%20%C2%B7%20Advanced BrainHack%20TIL--AI%202026](https://img.shields.io/badge/1st%20%C2%B7%20Advanced-BrainHack%20TIL--AI%202026-24292F?style=for-the-badge&labelColor=C9A227) ![1st OSCTF%202024](https://img.shields.io/badge/1st-OSCTF%202024-24292F?style=for-the-badge&labelColor=C9A227) ![1st National%20Robotics%20Competition%202024](https://img.shields.io/badge/1st-National%20Robotics%20Competition%202024-24292F?style=for-the-badge&labelColor=C9A227) ![1st James%20Dyson%20Foundation%20RoboRoarZ](https://img.shields.io/badge/1st-James%20Dyson%20Foundation%20RoboRoarZ-24292F?style=for-the-badge&labelColor=C9A227) ![Gold AiSP%20SVRP%202026](https://img.shields.io/badge/Gold-AiSP%20SVRP%202026-24292F?style=for-the-badge&labelColor=C9A227) ![SHIELD%20Award DIS%20Sentinel%20Programme](https://img.shields.io/badge/SHIELD%20Award-DIS%20Sentinel%20Programme-24292F?style=for-the-badge&labelColor=1F4E79) ![Challenge%20Coin HackSmith%205.0](https://img.shields.io/badge/Challenge%20Coin-HackSmith%205.0-24292F?style=for-the-badge&labelColor=E4572E) ![2nd SkillsFuture%20Cyber%20Challenge%202025](https://img.shields.io/badge/2nd-SkillsFuture%20Cyber%20Challenge%202025-24292F?style=for-the-badge&labelColor=A8A9AD) ![3rd BlahajCTF%202024](https://img.shields.io/badge/3rd-BlahajCTF%202024-24292F?style=for-the-badge&labelColor=CD7F32) ![Top%2010 BrainHack%20CDDC%202025](https://img.shields.io/badge/Top%2010-BrainHack%20CDDC%202025-24292F?style=for-the-badge&labelColor=6E7781)  and&nbsp;more…
